@@ -12,8 +12,8 @@ header{
 }
 
 body{
-  background-color: lightgrey;
-  color: navy;
+  background-color: rgb(129, 129, 129);
+  color: rgb(180, 178, 146);
 }
 #aboutMe p {
   display: block;
@@ -153,6 +153,13 @@ h3{
 
 #aboutMe{
   text-align: center;
+  
+}
+#projects{
+  background-color: rgb(34, 32, 32);
+}
+#socialMedia{
+  background-color: rgb(163, 124, 26);
 }
 
 /* //////////// */
